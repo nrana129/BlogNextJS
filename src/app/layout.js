@@ -1,4 +1,11 @@
 import { Inter } from "next/font/google";
+import 'jquery';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "./assets/css/style.css";
+import "./assets/css/responsive.css";
+import "./assets/css/ionicons.min.css";
+import "./assets/css/themify-icons.css";
+import "./assets/css/all.min.css";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
